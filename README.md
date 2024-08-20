@@ -1,3 +1,6 @@
 # Bronies Faction for Operation: Harsh Doorstop
 
-## [Available on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3309622333)
+| Game | Steam Workshop | Github |
+|---|---|---|
+| [Operation: Harsh Doorstop](https://steamdb.info/app/736590) | https://steamcommunity.com/sharedfiles/filedetails/?id=3309622333 |  |
+| [Operation: Harsh Doorstop - Development Build](https://steamdb.info/app/1307180) | https://steamcommunity.com/sharedfiles/filedetails/?id=3309750445 |  |
